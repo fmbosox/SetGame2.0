@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SetGame/Model/SetGame.swift"
+            timestampString = "541622089.234322"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getComplementaryBits(between:and:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGame.SetGame.getComplementaryBits(between: Swift.Int, and: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felipemontoya/iMacLocal/Developer/StanfordSwift/Assigment2/SetGame/SetGame/Model/SetGame.swift"
+                  timestampString = "539624959.313993"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGameTests.SetGame.getComplementaryBits(between: Swift.Int, and: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "SetGameTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felipemontoya/iMacLocal/Developer/StanfordSwift/Assigment2/SetGame/SetGame/Model/SetGame.swift"
+                  timestampString = "539624959.797787"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "213">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SetGame/Controller/MainViewController.swift"
+            timestampString = "542049898.7136199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "swipeDownGesture(recognizer:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
